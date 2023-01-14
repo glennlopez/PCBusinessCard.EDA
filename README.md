@@ -18,6 +18,8 @@ A good business card provides a perfect opportunity to impress a potential conta
 - 47R Resistor SMD 0603
 - 220nF Capacitor SMD 0603
 
+![image](https://user-images.githubusercontent.com/3073676/212501915-3cb37c8d-cc06-4176-a05b-475bda7a06b9.png)
+
 ## NFC Antenna
 NFC antenna is an open source class 4 attena from [NXP](https://www.themobileknowledge.com/wp-content/uploads/2018/07/02-Webinar-slies-Antenna-design-for-NTAG-I2C-plus.pdf)
 - Antenna loop is 2.75 uH
