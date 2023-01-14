@@ -5,6 +5,8 @@ On the back of the card is a QR code designed to act as backup for the NFC card 
 
 A good business card provides a perfect opportunity to impress a potential contact. It needs to stand out, and with this design it will not only stand out, it will also act as a phone stand. Perfect for those long airplane commutes.
 
+<b>Download the latest release [here](https://github.com/glennlopez/PCBusinessCard.EDA/releases)</b>
+
 [![GLENN LOPEZ PCB CARD](https://github.com/glennlopez/PCBusinessCard.EDA/blob/main/README/YouTube_Thumbnail.png)](https://youtu.be/cRTNIuY9tVg "Glenn Lopez PCB Card")
 
 
