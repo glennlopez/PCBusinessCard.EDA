@@ -13,7 +13,7 @@ NFC antenna is an open source class 4 attena from [NXP](https://www.themobilekno
 - Antenna loop is 2.75 uH
 - Energy harvesting output VOUT is used to power the NFC chip connected to VCC pin.
 
-## Samples
+## Production Samples
 <img src="https://github.com/glennlopez/PCBusinessCard.EDA/blob/main/README/Photos/IMG_6034.jpg?raw=true" data-canonical-src="https://github.com/glennlopez/PCBusinessCard.EDA/blob/main/README/Photos/IMG_6034.jpg?raw=true" height="200"  /><img src="https://user-images.githubusercontent.com/3073676/212498082-4e5903aa-a640-4a2a-94f7-8c74bec80546.png" data-canonical-src="[https://github.com/glennlopez/PCBusinessCard.EDA/blob/main/README/Photos/IMG_6034.jpg?raw=true](https://user-images.githubusercontent.com/3073676/212498082-4e5903aa-a640-4a2a-94f7-8c74bec80546.png)" height="200"  />
 
 
