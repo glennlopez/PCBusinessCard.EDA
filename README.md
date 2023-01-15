@@ -1,4 +1,7 @@
 # NFC Enabled PCB Business Card
+
+![image](https://user-images.githubusercontent.com/3073676/212503985-bd258a9e-3246-4941-9b2b-67d931268322.png)
+
 This is the ultimate business card in PCB form, designed to bridge the physical world with the digital. The front of the card has an NFC chip designed to hold enough information to store your contact info, url, email, and plain text. In the example video below, the NFC chip holds a url link to my github repository. Energy is harvested during a scan through the antenna and powers the LED. 
 
 On the back of the card is a QR code designed to act as backup for the NFC card in case you choose to have the NFC unpopulated. The back provides written contact info for a quick visual reference, allowing you to make a quick first impression.
